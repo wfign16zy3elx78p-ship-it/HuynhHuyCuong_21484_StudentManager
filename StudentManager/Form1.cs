@@ -12,6 +12,7 @@ using System.Windows.Forms;
 //"Model: add Student class"
 //"Feature: implement add/update/delete"
 //"Feature: add search function"
+//"Validation: prevent empty student name"
 namespace StudentManager
 {
     public partial class Form1 : Form
