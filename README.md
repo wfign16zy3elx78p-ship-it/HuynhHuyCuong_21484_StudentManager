@@ -29,3 +29,16 @@ III.5 Commit chính gồm:
 
 5.Feature: add search function – Chức năng tìm kiếm
 
+IV:Link PR:https://github.com/wfign16zy3elx78p-ship-it/HuynhHuyCuong_21484_StudentManager/pull/1#issue-3658772113
+
+V:Ảnh UI
+
+<img width="825" height="472" alt="image" src="https://github.com/user-attachments/assets/26f12a30-a6c7-4926-81b7-b468b0762e69" />
+
+VI:Lịch Sử Log
+
+<img width="581" height="289" alt="image" src="https://github.com/user-attachments/assets/a9585ee1-cb80-413c-bdf1-fc176ad51c88" />
+
+
+
+
