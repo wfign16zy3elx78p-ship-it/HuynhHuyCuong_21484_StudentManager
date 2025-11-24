@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 //"UI: add main form layout"
+//"Model: add Student class"
 namespace StudentManager
 {
     public partial class Form1 : Form
