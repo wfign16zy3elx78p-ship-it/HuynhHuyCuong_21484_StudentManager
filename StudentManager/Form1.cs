@@ -11,6 +11,7 @@ using System.Windows.Forms;
 //"UI: add main form layout"
 //"Model: add Student class"
 //"Feature: implement add/update/delete"
+//"Feature: add search function"
 namespace StudentManager
 {
     public partial class Form1 : Form
